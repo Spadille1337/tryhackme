@@ -116,7 +116,7 @@ cat dontforget.bak
 </comment>
 ```
 
-- Now, we can say that here `xxe` may exist. Now, let's chexk by using the followling payload and submit it in the comment section given at `http://ip_address:8765/home.php`
+- Now, we can say that here `xxe` may exist. Now, let's chexk by using the following payload and submit it in the comment section given at `http://ip_address:8765/home.php`
 	Payload:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
